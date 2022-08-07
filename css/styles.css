@@ -1,3 +1,19 @@
 .bg {
   background-color: black;
 }
+
+.column{ 
+  width: 50%;
+}
+
+.right{
+  float: right;
+}
+
+.left{
+  float: left;
+}
+
+.highlight{
+  color:rgb(60, 129, 129);
+}
