@@ -3,7 +3,10 @@
 }
 
 .column{ 
-  width: 50%;
+  width: 100%;
+  border: 20px black;
+  padding: 50px;
+  margin: 50;
 }
 
 .right{
@@ -16,4 +19,17 @@
 
 .highlight{
   color:rgb(60, 129, 129);
+}
+
+.box{
+  width: 200px;
+  border: 2px solid rgb(60, 129, 129);
+  padding: 10px;
+  margin: 10;
+}
+
+.box2{
+  width: 50%;
+  padding: 10px;
+  margin: 10;
 }
